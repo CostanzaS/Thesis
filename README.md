@@ -1,6 +1,6 @@
 # Thesis
 
-Ran using both Google colab and Anaconda environment. 
+Ran using both Google colab and Anaconda environment  
 Language : Python 3
 
 ## Neighbour-based CF
