@@ -17,4 +17,6 @@ BPR : https://github.com/sh0416/bpr
 
 
 ## How?
-Dowload folder with the needed model and respective dataset.
+Download dataset and notebook
+Install needed packages
+Run notebook on google colab
