@@ -18,7 +18,11 @@ BPR : https://github.com/sh0416/bpr
 
 ## How?
 Download dataset and notebook
+
 Install needed packages
+
 Run 
+
   -> models using explicit feedbacks and BPR notebooks on google colab
+  
   -> WRMF using anaconda and locate the jupyter notebook in the 'main' folder in order to run 
