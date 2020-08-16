@@ -7,7 +7,7 @@ Language : Python 3
 Dataset MovieLens 100K Dataset with explicit feedback – ratings https://grouplens.org/datasets/movielens/
 
 ## Latent models with explicit feedback
-SVD  NMF  SGD  : surprise library
+NMF  SGD  : surprise library
 
 ## Latent models with implicit feedback
 dataset : Use Last.FM with implicit feedback – artist listening records https://grouplens.org/datasets/hetrec-2011/
@@ -19,4 +19,6 @@ BPR : https://github.com/sh0416/bpr
 ## How?
 Download dataset and notebook
 Install needed packages
-Run notebook on google colab
+Run 
+  -> models using explicit feedbacks and BPR notebooks on google colab
+  -> WRMF using anaconda and locate the jupyter notebook in the 'main' folder in order to run 
