@@ -12,7 +12,7 @@ NMF  SGD  : surprise library
 ## Latent models with implicit feedback
 dataset : Use Last.FM with implicit feedback – artist listening records https://grouplens.org/datasets/hetrec-2011/
 
-WRMF : https://github.com/Coder-Yu/RecQ  
+WRMF : https://github.com/Coder-Yu/RecQ  (to be noted, in the WMF folder have been uploaded only the files that were converted from python 2 to python 3 )
 BPR : https://github.com/sh0416/bpr
 
 
