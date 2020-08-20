@@ -7,7 +7,7 @@ Language : Python 3
 Dataset MovieLens 100K Dataset with explicit feedback – ratings https://grouplens.org/datasets/movielens/
 
 ## Latent models with explicit feedback
-NMF  SGD  : surprise library
+NMF  SGD  : surprise library (http://surpriselib.com)
 
 ## Latent models with implicit feedback
 dataset : Use Last.FM with implicit feedback – artist listening records https://grouplens.org/datasets/hetrec-2011/
