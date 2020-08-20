@@ -26,3 +26,6 @@ Run
   -> models using explicit feedbacks and BPR notebooks on google colab
   
   -> WRMF using anaconda and locate the jupyter notebook in the 'main' folder in order to run 
+
+
+To conclude, do not forget to change the data paths before running.
